@@ -1,0 +1,722 @@
+[
+  {
+    "subject_id": 1,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:39:22.334309",
+    "target_accuracy": 0.625
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:40:19.779328",
+    "target_accuracy": 0.6964285969734192
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:41:18.404644",
+    "target_accuracy": 0.5357142686843872
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:42:19.307735",
+    "target_accuracy": 0.7321428656578064
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:43:17.672572",
+    "target_accuracy": 0.6964285969734192
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:44:11.919014",
+    "target_accuracy": 0.6785714030265808
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:45:05.393631",
+    "target_accuracy": 0.5178571343421936
+  },
+  {
+    "subject_id": 1,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:46:10.002975",
+    "target_accuracy": 0.7142857313156128
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:47:13.572652",
+    "target_accuracy": 0.5797101259231567
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:48:14.070125",
+    "target_accuracy": 0.6086956262588501
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:49:11.423564",
+    "target_accuracy": 0.5362318754196167
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:50:18.807779",
+    "target_accuracy": 0.5652173757553101
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:51:18.424739",
+    "target_accuracy": 0.5942028760910034
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:52:16.557213",
+    "target_accuracy": 0.5507246255874634
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:53:15.712367",
+    "target_accuracy": 0.5652173757553101
+  },
+  {
+    "subject_id": 2,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:54:20.745472",
+    "target_accuracy": 0.49275362491607666
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:55:27.217299",
+    "target_accuracy": 0.6666666865348816
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:56:31.437533",
+    "target_accuracy": 0.6666666865348816
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:57:29.268479",
+    "target_accuracy": 0.5942028760910034
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:58:33.483242",
+    "target_accuracy": 0.5942028760910034
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T09:59:35.190061",
+    "target_accuracy": 0.5652173757553101
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:00:34.668976",
+    "target_accuracy": 0.5652173757553101
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:01:30.162211",
+    "target_accuracy": 0.6376811861991882
+  },
+  {
+    "subject_id": 3,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:02:34.176934",
+    "target_accuracy": 0.6521739363670349
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:03:36.088942",
+    "target_accuracy": 0.5416666865348816
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:04:33.842083",
+    "target_accuracy": 0.5138888955116272
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:05:30.259706",
+    "target_accuracy": 0.4861111044883728
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:06:33.222486",
+    "target_accuracy": 0.5555555820465088
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:07:33.787472",
+    "target_accuracy": 0.6805555820465088
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:08:32.068911",
+    "target_accuracy": 0.6527777910232544
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:09:28.168970",
+    "target_accuracy": 0.6388888955116272
+  },
+  {
+    "subject_id": 4,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:10:33.159885",
+    "target_accuracy": 0.625
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:11:35.281594",
+    "target_accuracy": 0.6388888955116272
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:12:33.223037",
+    "target_accuracy": 0.6527777910232544
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:13:27.939594",
+    "target_accuracy": 0.5972222089767456
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:14:31.402435",
+    "target_accuracy": 0.5833333134651184
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:15:32.627354",
+    "target_accuracy": 0.5694444179534912
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:16:29.361382",
+    "target_accuracy": 0.5833333134651184
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:17:25.298674",
+    "target_accuracy": 0.6111111044883728
+  },
+  {
+    "subject_id": 5,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:18:27.441896",
+    "target_accuracy": 0.6527777910232544
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:19:24.106252",
+    "target_accuracy": 0.625
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:20:18.327793",
+    "target_accuracy": 0.625
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:21:10.680244",
+    "target_accuracy": 0.6607142686843872
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:22:09.156440",
+    "target_accuracy": 0.625
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:23:05.680792",
+    "target_accuracy": 0.5714285969734192
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:24:00.358757",
+    "target_accuracy": 0.6071428656578064
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:24:53.020636",
+    "target_accuracy": 0.5892857313156128
+  },
+  {
+    "subject_id": 6,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:25:51.787011",
+    "target_accuracy": 0.6071428656578064
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:26:52.014134",
+    "target_accuracy": 0.6567164063453674
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:27:48.688946",
+    "target_accuracy": 0.6567164063453674
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:28:42.984994",
+    "target_accuracy": 0.611940324306488
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:29:45.017073",
+    "target_accuracy": 0.6268656849861145
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:30:44.393484",
+    "target_accuracy": 0.6865671873092651
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:31:41.314165",
+    "target_accuracy": 0.6865671873092651
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:32:36.599168",
+    "target_accuracy": 0.611940324306488
+  },
+  {
+    "subject_id": 7,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:33:39.757721",
+    "target_accuracy": 0.611940324306488
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:34:38.783029",
+    "target_accuracy": 0.5
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:35:35.519502",
+    "target_accuracy": 0.515625
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:36:29.953909",
+    "target_accuracy": 0.578125
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:37:30.906587",
+    "target_accuracy": 0.515625
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:38:28.921961",
+    "target_accuracy": 0.578125
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:39:24.002411",
+    "target_accuracy": 0.546875
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:40:18.741204",
+    "target_accuracy": 0.5625
+  },
+  {
+    "subject_id": 8,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:41:20.166400",
+    "target_accuracy": 0.59375
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 43,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:42:20.556810",
+    "target_accuracy": 0.6323529481887817
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 43,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:43:16.866715",
+    "target_accuracy": 0.6323529481887817
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 43,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:44:11.603228",
+    "target_accuracy": 0.6176470518112183
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 43,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 1,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:45:15.250114",
+    "target_accuracy": 0.6470588445663452
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 44,
+    "freeze_strategy": "temporal_only",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:46:14.312161",
+    "target_accuracy": 0.529411792755127
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 44,
+    "freeze_strategy": "spatial_temporal",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:47:10.933101",
+    "target_accuracy": 0.5441176295280457
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 44,
+    "freeze_strategy": "all_except_classifier",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:48:06.046216",
+    "target_accuracy": 0.5441176295280457
+  },
+  {
+    "subject_id": 9,
+    "random_seed": 44,
+    "freeze_strategy": "none",
+    "hands_only": true,
+    "replicate": 2,
+    "experiment_type": "ablation",
+    "timestamp": "2026-03-09T10:49:09.511048",
+    "target_accuracy": 0.5441176295280457
+  }
+]

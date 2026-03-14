@@ -1,0 +1,24 @@
+{
+  "negative_transfer_subjects": [
+    {
+      "subject_id": 1,
+      "baseline_mean": 0.7,
+      "misaligned_mean": 0.6857142806053161,
+      "degradation": 0.014285719394683816
+    },
+    {
+      "subject_id": 2,
+      "baseline_mean": 0.5855072379112244,
+      "misaligned_mean": 0.5855072259902954,
+      "degradation": 1.1920929021691506e-08
+    },
+    {
+      "subject_id": 4,
+      "baseline_mean": 0.6416666626930236,
+      "misaligned_mean": 0.6277777791023255,
+      "degradation": 0.013888883590698176
+    }
+  ],
+  "count": 3,
+  "percentage": 0.3333333333333333
+}

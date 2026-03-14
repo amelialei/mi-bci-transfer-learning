@@ -1,0 +1,83 @@
+[
+  {
+    "held_out_subject": 1,
+    "baseline_loso_accuracy": 0.5892857142857143,
+    "transfer_loso_accuracy": 0.5714285714285714,
+    "within_subject_baseline": 0.7,
+    "generalization_gap": 0.11071428571428565,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 2,
+    "baseline_loso_accuracy": 0.4492753623188406,
+    "transfer_loso_accuracy": 0.4782608695652174,
+    "within_subject_baseline": 0.5855072379112244,
+    "generalization_gap": 0.1362318755923838,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 3,
+    "baseline_loso_accuracy": 0.4782608695652174,
+    "transfer_loso_accuracy": 0.5217391304347826,
+    "within_subject_baseline": 0.5913043260574341,
+    "generalization_gap": 0.1130434564922167,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 4,
+    "baseline_loso_accuracy": 0.5833333333333334,
+    "transfer_loso_accuracy": 0.625,
+    "within_subject_baseline": 0.6416666626930236,
+    "generalization_gap": 0.05833332935969027,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 5,
+    "baseline_loso_accuracy": 0.375,
+    "transfer_loso_accuracy": 0.4583333333333333,
+    "within_subject_baseline": 0.6166666507720947,
+    "generalization_gap": 0.2416666507720947,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 6,
+    "baseline_loso_accuracy": 0.5714285714285714,
+    "transfer_loso_accuracy": 0.5357142857142857,
+    "within_subject_baseline": 0.6428571462631225,
+    "generalization_gap": 0.07142857483455112,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 7,
+    "baseline_loso_accuracy": 0.47058823529411764,
+    "transfer_loso_accuracy": 0.4852941176470588,
+    "within_subject_baseline": 0.5852941155433655,
+    "generalization_gap": 0.11470588024924788,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 8,
+    "baseline_loso_accuracy": 0.609375,
+    "transfer_loso_accuracy": 0.59375,
+    "within_subject_baseline": 0.571875,
+    "generalization_gap": -0.03749999999999998,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  },
+  {
+    "held_out_subject": 9,
+    "baseline_loso_accuracy": 0.5,
+    "transfer_loso_accuracy": 0.5147058823529411,
+    "within_subject_baseline": 0.6147058844566345,
+    "generalization_gap": 0.11470588445663454,
+    "n_baseline_models": 40,
+    "n_transfer_models": 40
+  }
+]

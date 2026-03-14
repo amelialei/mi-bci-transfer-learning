@@ -1,0 +1,65 @@
+[
+  {
+    "subject_id": 1,
+    "baseline_std": 0.0364215763038315,
+    "misaligned_std": 0.04870779564589821,
+    "aligned_std": 0.03194383967400243,
+    "highest_variance_condition": "misaligned"
+  },
+  {
+    "subject_id": 2,
+    "baseline_std": 0.04986855978404123,
+    "misaligned_std": 0.0283998743046877,
+    "aligned_std": 0.038234515367739294,
+    "highest_variance_condition": "baseline"
+  },
+  {
+    "subject_id": 3,
+    "baseline_std": 0.026565649868896545,
+    "misaligned_std": 0.03094807120528862,
+    "aligned_std": 0.03888815612348132,
+    "highest_variance_condition": "aligned"
+  },
+  {
+    "subject_id": 4,
+    "baseline_std": 0.033333330353104276,
+    "misaligned_std": 0.03215511784049833,
+    "aligned_std": 0.029658549211429384,
+    "highest_variance_condition": "baseline"
+  },
+  {
+    "subject_id": 5,
+    "baseline_std": 0.04267303055307317,
+    "misaligned_std": 0.03469444986803054,
+    "aligned_std": 0.04249182927994173,
+    "highest_variance_condition": "baseline"
+  },
+  {
+    "subject_id": 6,
+    "baseline_std": 0.03388154905161345,
+    "misaligned_std": 0.04656572297586894,
+    "aligned_std": 0.051010216295898844,
+    "highest_variance_condition": "aligned"
+  },
+  {
+    "subject_id": 7,
+    "baseline_std": 0.03140317671496535,
+    "misaligned_std": 0.026956324709985605,
+    "aligned_std": 0.02564058049253317,
+    "highest_variance_condition": "baseline"
+  },
+  {
+    "subject_id": 8,
+    "baseline_std": 0.045927932677184584,
+    "misaligned_std": 0.03617449032121945,
+    "aligned_std": 0.046770717334674264,
+    "highest_variance_condition": "aligned"
+  },
+  {
+    "subject_id": 9,
+    "baseline_std": 0.021613150801076036,
+    "misaligned_std": 0.022009744836083405,
+    "aligned_std": 0.03353458239681391,
+    "highest_variance_condition": "aligned"
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "baseline_vs_misaligned_benefit": {
+    "r": -0.5614358796543237,
+    "p": 0.11572384734852992,
+    "ci_95": [
+      -0.890578191386942,
+      0.10627500308400119
+    ]
+  },
+  "baseline_vs_aligned_benefit": {
+    "r": -0.6858139911956582,
+    "p": 0.041402187656340884,
+    "ci_95": [
+      -0.9198223522155112,
+      0.07627993961005541
+    ]
+  },
+  "variance_vs_benefit": {
+    "r": -0.5747158617680725,
+    "p": 0.10551036002511201
+  },
+  "subject_data": [
+    {
+      "subject_id": 1,
+      "baseline_mean": 0.7,
+      "baseline_std": 0.0364215763038315,
+      "misaligned_benefit_mean": -0.014285719394683838,
+      "aligned_benefit_mean": -0.02142857313156128
+    },
+    {
+      "subject_id": 2,
+      "baseline_mean": 0.5855072379112244,
+      "baseline_std": 0.04986855978404123,
+      "misaligned_benefit_mean": -1.1920928955078126e-08,
+      "aligned_benefit_mean": 0.005797100067138672
+    },
+    {
+      "subject_id": 3,
+      "baseline_mean": 0.5913043260574341,
+      "baseline_std": 0.026565649868896545,
+      "misaligned_benefit_mean": 0.03478262424468994,
+      "aligned_benefit_mean": 0.002898573875427246
+    },
+    {
+      "subject_id": 4,
+      "baseline_mean": 0.6416666626930236,
+      "baseline_std": 0.033333330353104276,
+      "misaligned_benefit_mean": -0.013888883590698241,
+      "aligned_benefit_mean": 0.013888895511627197
+    },
+    {
+      "subject_id": 5,
+      "baseline_mean": 0.6166666507720947,
+      "baseline_std": 0.04267303055307317,
+      "misaligned_benefit_mean": 0.0027777910232543944,
+      "aligned_benefit_mean": 0.033333349227905276
+    },
+    {
+      "subject_id": 6,
+      "baseline_mean": 0.6428571462631225,
+      "baseline_std": 0.03388154905161345,
+      "misaligned_benefit_mean": 0.0,
+      "aligned_benefit_mean": -0.02142857313156128
+    },
+    {
+      "subject_id": 7,
+      "baseline_mean": 0.5852941155433655,
+      "baseline_std": 0.03140317671496535,
+      "misaligned_benefit_mean": 0.014705896377563477,
+      "aligned_benefit_mean": 0.023529422283172608
+    },
+    {
+      "subject_id": 8,
+      "baseline_mean": 0.571875,
+      "baseline_std": 0.045927932677184584,
+      "misaligned_benefit_mean": 0.009375,
+      "aligned_benefit_mean": 0.034375
+    },
+    {
+      "subject_id": 9,
+      "baseline_mean": 0.6147058844566345,
+      "baseline_std": 0.021613150801076036,
+      "misaligned_benefit_mean": 0.03823529481887818,
+      "aligned_benefit_mean": 0.0029411792755126955
+    }
+  ]
+}

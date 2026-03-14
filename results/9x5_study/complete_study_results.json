@@ -1,0 +1,688 @@
+{
+  "metadata": {
+    "n_subjects": 9,
+    "n_replicates": 5,
+    "total_experiments": 45,
+    "total_models_saved": 135,
+    "timestamp": "2026-03-06T05:10:56.366373"
+  },
+  "summary_statistics": {
+    "baseline_mean": 61.66530026329888,
+    "baseline_std": 4.009974616828002,
+    "misaligned_mean": 0.7966887950897217,
+    "misaligned_std": 1.8739597077080945,
+    "aligned_mean": 0.8211819330851237,
+    "aligned_std": 2.061979711617923
+  },
+  "statistical_tests": {
+    "misaligned_vs_baseline": {
+      "t": 1.2754096982118595,
+      "p": 0.23795163083014895
+    },
+    "aligned_vs_baseline": {
+      "t": 1.1947478364480904,
+      "p": 0.2664016393709765
+    },
+    "misaligned_vs_aligned": {
+      "t": -0.02878327252393416,
+      "p": 0.977742530797962
+    }
+  },
+  "effect_sizes": {
+    "misaligned": 0.4251365660706198,
+    "aligned": 0.39824927881603017
+  },
+  "confidence_intervals": {
+    "misaligned": {
+      "mean": 0.7966887950897217,
+      "lower": -0.6437641499705635,
+      "upper": 2.237141740150007
+    },
+    "aligned": {
+      "mean": 0.8211819330851237,
+      "lower": -0.7637959808142173,
+      "upper": 2.4061598469844645
+    }
+  },
+  "subject_summaries": [
+    {
+      "subject_id": 1,
+      "n_replicates": 5,
+      "baseline_mean": 70.0,
+      "baseline_std": 4.072056023153138,
+      "misaligned_mean": 68.57142806053162,
+      "misaligned_std": 5.445697104919833,
+      "aligned_mean": 67.85714268684387,
+      "aligned_std": 3.571429848671208,
+      "misaligned_delta_mean": -1.4285719394683838,
+      "misaligned_delta_std": 5.703116119118196,
+      "aligned_delta_mean": -2.142857313156128,
+      "aligned_delta_std": 4.446395261233755,
+      "all_results": [
+        {
+          "subject_id": 1,
+          "replicate": 1,
+          "random_seed": 1042,
+          "timestamp": "2026-03-06T02:10:57.634764",
+          "baseline": 66.07142686843872,
+          "misaligned": 71.42857313156128,
+          "misaligned_delta": 5.357146263122559,
+          "aligned": 71.42857313156128,
+          "aligned_delta": 5.357146263122559
+        },
+        {
+          "subject_id": 1,
+          "replicate": 2,
+          "random_seed": 1043,
+          "timestamp": "2026-03-06T02:14:49.733308",
+          "baseline": 75.0,
+          "misaligned": 76.78571343421936,
+          "misaligned_delta": 1.7857134342193604,
+          "aligned": 71.42857313156128,
+          "aligned_delta": -3.5714268684387207
+        },
+        {
+          "subject_id": 1,
+          "replicate": 3,
+          "random_seed": 1044,
+          "timestamp": "2026-03-06T02:18:55.767463",
+          "baseline": 73.21428656578064,
+          "misaligned": 64.28571343421936,
+          "misaligned_delta": -8.92857313156128,
+          "aligned": 67.85714030265808,
+          "aligned_delta": -5.357146263122559
+        },
+        {
+          "subject_id": 1,
+          "replicate": 4,
+          "random_seed": 1045,
+          "timestamp": "2026-03-06T02:23:05.939977",
+          "baseline": 69.64285969734192,
+          "misaligned": 64.28571343421936,
+          "misaligned_delta": -5.357146263122559,
+          "aligned": 64.28571343421936,
+          "aligned_delta": -5.357146263122559
+        },
+        {
+          "subject_id": 1,
+          "replicate": 5,
+          "random_seed": 1046,
+          "timestamp": "2026-03-06T02:26:53.233068",
+          "baseline": 66.07142686843872,
+          "misaligned": 66.07142686843872,
+          "misaligned_delta": 0.0,
+          "aligned": 64.28571343421936,
+          "aligned_delta": -1.7857134342193604
+        }
+      ]
+    },
+    {
+      "subject_id": 2,
+      "n_replicates": 5,
+      "baseline_mean": 58.55072379112244,
+      "baseline_std": 5.575474480856421,
+      "misaligned_mean": 58.55072259902954,
+      "misaligned_std": 3.1752024748865635,
+      "aligned_mean": 59.130433797836304,
+      "aligned_std": 4.274748772451272,
+      "misaligned_delta_mean": -1.1920928955078125e-06,
+      "misaligned_delta_std": 4.347827533880977,
+      "aligned_delta_mean": 0.5797100067138672,
+      "aligned_delta_std": 5.668873352779425,
+      "all_results": [
+        {
+          "subject_id": 2,
+          "replicate": 1,
+          "random_seed": 2042,
+          "timestamp": "2026-03-06T02:30:37.759386",
+          "baseline": 55.07246255874634,
+          "misaligned": 59.42028760910034,
+          "misaligned_delta": 4.347825050354004,
+          "aligned": 52.173912525177,
+          "aligned_delta": -2.898550033569336
+        },
+        {
+          "subject_id": 2,
+          "replicate": 2,
+          "random_seed": 2043,
+          "timestamp": "2026-03-06T02:34:41.353924",
+          "baseline": 66.66666865348816,
+          "misaligned": 59.42028760910034,
+          "misaligned_delta": -7.246381044387817,
+          "aligned": 60.86956262588501,
+          "aligned_delta": -5.797106027603149
+        },
+        {
+          "subject_id": 2,
+          "replicate": 3,
+          "random_seed": 2044,
+          "timestamp": "2026-03-06T02:38:46.600428",
+          "baseline": 60.86956262588501,
+          "misaligned": 62.31883764266968,
+          "misaligned_delta": 1.449275016784668,
+          "aligned": 59.42028760910034,
+          "aligned_delta": -1.449275016784668
+        },
+        {
+          "subject_id": 2,
+          "replicate": 4,
+          "random_seed": 2045,
+          "timestamp": "2026-03-06T02:42:48.066860",
+          "baseline": 52.173912525177,
+          "misaligned": 53.62318754196167,
+          "misaligned_delta": 1.449275016784668,
+          "aligned": 59.42028760910034,
+          "aligned_delta": 7.24637508392334
+        },
+        {
+          "subject_id": 2,
+          "replicate": 5,
+          "random_seed": 2046,
+          "timestamp": "2026-03-06T02:46:50.014398",
+          "baseline": 57.971012592315674,
+          "misaligned": 57.971012592315674,
+          "misaligned_delta": 0.0,
+          "aligned": 63.76811861991882,
+          "aligned_delta": 5.797106027603149
+        }
+      ]
+    },
+    {
+      "subject_id": 3,
+      "n_replicates": 5,
+      "baseline_mean": 59.13043260574341,
+      "baseline_std": 2.970129948665553,
+      "misaligned_mean": 62.6086950302124,
+      "misaligned_std": 3.4600995493764604,
+      "aligned_mean": 59.42028999328613,
+      "aligned_std": 4.347828030586447,
+      "misaligned_delta_mean": 3.478262424468994,
+      "misaligned_delta_std": 1.2962713154532286,
+      "aligned_delta_mean": 0.2898573875427246,
+      "aligned_delta_std": 2.592543297300221,
+      "all_results": [
+        {
+          "subject_id": 3,
+          "replicate": 1,
+          "random_seed": 3042,
+          "timestamp": "2026-03-06T02:50:51.493300",
+          "baseline": 56.521737575531006,
+          "misaligned": 57.971012592315674,
+          "misaligned_delta": 1.449275016784668,
+          "aligned": 57.971012592315674,
+          "aligned_delta": 1.449275016784668
+        },
+        {
+          "subject_id": 3,
+          "replicate": 2,
+          "random_seed": 3043,
+          "timestamp": "2026-03-06T02:54:55.149141",
+          "baseline": 57.971012592315674,
+          "misaligned": 62.31883764266968,
+          "misaligned_delta": 4.347825050354004,
+          "aligned": 53.62318754196167,
+          "aligned_delta": -4.347825050354004
+        },
+        {
+          "subject_id": 3,
+          "replicate": 3,
+          "random_seed": 3044,
+          "timestamp": "2026-03-06T02:58:56.854878",
+          "baseline": 62.31883764266968,
+          "misaligned": 65.21739363670349,
+          "misaligned_delta": 2.8985559940338135,
+          "aligned": 63.76811861991882,
+          "aligned_delta": 1.4492809772491455
+        },
+        {
+          "subject_id": 3,
+          "replicate": 4,
+          "random_seed": 3045,
+          "timestamp": "2026-03-06T03:02:59.447727",
+          "baseline": 62.31883764266968,
+          "misaligned": 66.66666865348816,
+          "misaligned_delta": 4.3478310108184814,
+          "aligned": 63.76811861991882,
+          "aligned_delta": 1.4492809772491455
+        },
+        {
+          "subject_id": 3,
+          "replicate": 5,
+          "random_seed": 3046,
+          "timestamp": "2026-03-06T03:07:11.892375",
+          "baseline": 56.521737575531006,
+          "misaligned": 60.86956262588501,
+          "misaligned_delta": 4.347825050354004,
+          "aligned": 57.971012592315674,
+          "aligned_delta": 1.449275016784668
+        }
+      ]
+    },
+    {
+      "subject_id": 4,
+      "n_replicates": 5,
+      "baseline_mean": 64.16666626930237,
+      "baseline_std": 3.726779629299912,
+      "misaligned_mean": 62.777777910232544,
+      "misaligned_std": 3.595051465793525,
+      "aligned_mean": 65.55555582046509,
+      "aligned_std": 3.315926607538944,
+      "misaligned_delta_mean": -1.3888883590698242,
+      "misaligned_delta_std": 6.804139289683063,
+      "aligned_delta_mean": 1.3888895511627197,
+      "aligned_delta_std": 3.6746535348592455,
+      "all_results": [
+        {
+          "subject_id": 4,
+          "replicate": 1,
+          "random_seed": 4042,
+          "timestamp": "2026-03-06T03:11:37.415756",
+          "baseline": 62.5,
+          "misaligned": 68.05555820465088,
+          "misaligned_delta": 5.555558204650879,
+          "aligned": 68.05555820465088,
+          "aligned_delta": 5.555558204650879
+        },
+        {
+          "subject_id": 4,
+          "replicate": 2,
+          "random_seed": 4043,
+          "timestamp": "2026-03-06T03:15:55.176312",
+          "baseline": 61.11111044883728,
+          "misaligned": 62.5,
+          "misaligned_delta": 1.3888895511627197,
+          "aligned": 63.88888955116272,
+          "aligned_delta": 2.7777791023254395
+        },
+        {
+          "subject_id": 4,
+          "replicate": 3,
+          "random_seed": 4044,
+          "timestamp": "2026-03-06T03:20:21.864087",
+          "baseline": 69.44444179534912,
+          "misaligned": 58.33333134651184,
+          "misaligned_delta": -11.11111044883728,
+          "aligned": 65.27777910232544,
+          "aligned_delta": -4.166662693023682
+        },
+        {
+          "subject_id": 4,
+          "replicate": 4,
+          "random_seed": 4045,
+          "timestamp": "2026-03-06T03:24:33.623167",
+          "baseline": 66.66666865348816,
+          "misaligned": 61.11111044883728,
+          "misaligned_delta": -5.555558204650879,
+          "aligned": 69.44444179534912,
+          "aligned_delta": 2.777773141860962
+        },
+        {
+          "subject_id": 4,
+          "replicate": 5,
+          "random_seed": 4046,
+          "timestamp": "2026-03-06T03:28:53.084012",
+          "baseline": 61.11111044883728,
+          "misaligned": 63.88888955116272,
+          "misaligned_delta": 2.7777791023254395,
+          "aligned": 61.11111044883728,
+          "aligned_delta": 0.0
+        }
+      ]
+    },
+    {
+      "subject_id": 5,
+      "n_replicates": 5,
+      "baseline_mean": 61.66666507720947,
+      "baseline_std": 4.7709898561298525,
+      "misaligned_mean": 61.94444417953491,
+      "misaligned_std": 3.8789574173437447,
+      "aligned_mean": 65.0,
+      "aligned_std": 4.750730937913283,
+      "misaligned_delta_mean": 0.27777910232543945,
+      "misaligned_delta_std": 5.046085017205589,
+      "aligned_delta_mean": 3.3333349227905273,
+      "aligned_delta_std": 4.001351988794605,
+      "all_results": [
+        {
+          "subject_id": 5,
+          "replicate": 1,
+          "random_seed": 5042,
+          "timestamp": "2026-03-06T03:33:05.475635",
+          "baseline": 59.72222089767456,
+          "misaligned": 58.33333134651184,
+          "misaligned_delta": -1.3888895511627197,
+          "aligned": 63.88888955116272,
+          "aligned_delta": 4.166668653488159
+        },
+        {
+          "subject_id": 5,
+          "replicate": 2,
+          "random_seed": 5043,
+          "timestamp": "2026-03-06T03:37:29.788177",
+          "baseline": 56.94444179534912,
+          "misaligned": 61.11111044883728,
+          "misaligned_delta": 4.166668653488159,
+          "aligned": 66.66666865348816,
+          "aligned_delta": 9.722226858139038
+        },
+        {
+          "subject_id": 5,
+          "replicate": 3,
+          "random_seed": 5044,
+          "timestamp": "2026-03-06T03:41:50.711075",
+          "baseline": 69.44444179534912,
+          "misaligned": 65.27777910232544,
+          "misaligned_delta": -4.166662693023682,
+          "aligned": 72.22222089767456,
+          "aligned_delta": 2.7777791023254395
+        },
+        {
+          "subject_id": 5,
+          "replicate": 4,
+          "random_seed": 5045,
+          "timestamp": "2026-03-06T03:45:58.723242",
+          "baseline": 59.72222089767456,
+          "misaligned": 66.66666865348816,
+          "misaligned_delta": 6.944447755813599,
+          "aligned": 59.72222089767456,
+          "aligned_delta": 0.0
+        },
+        {
+          "subject_id": 5,
+          "replicate": 5,
+          "random_seed": 5046,
+          "timestamp": "2026-03-06T03:50:24.650733",
+          "baseline": 62.5,
+          "misaligned": 58.33333134651184,
+          "misaligned_delta": -4.166668653488159,
+          "aligned": 62.5,
+          "aligned_delta": 0.0
+        }
+      ]
+    },
+    {
+      "subject_id": 6,
+      "n_replicates": 5,
+      "baseline_mean": 64.28571462631226,
+      "baseline_std": 3.78807234312006,
+      "misaligned_mean": 64.28571462631226,
+      "misaligned_std": 5.206206099773338,
+      "aligned_mean": 62.14285731315613,
+      "aligned_std": 5.703115559229866,
+      "misaligned_delta_mean": 0.0,
+      "misaligned_delta_std": 3.571429848672203,
+      "aligned_delta_mean": -2.142857313156128,
+      "aligned_delta_std": 4.955158407628357,
+      "all_results": [
+        {
+          "subject_id": 6,
+          "replicate": 1,
+          "random_seed": 6042,
+          "timestamp": "2026-03-06T03:54:55.461797",
+          "baseline": 66.07142686843872,
+          "misaligned": 69.64285969734192,
+          "misaligned_delta": 3.5714328289031982,
+          "aligned": 69.64285969734192,
+          "aligned_delta": 3.5714328289031982
+        },
+        {
+          "subject_id": 6,
+          "replicate": 2,
+          "random_seed": 6043,
+          "timestamp": "2026-03-06T03:59:02.906810",
+          "baseline": 69.64285969734192,
+          "misaligned": 66.07142686843872,
+          "misaligned_delta": -3.5714328289031982,
+          "aligned": 62.5,
+          "aligned_delta": -7.142859697341919
+        },
+        {
+          "subject_id": 6,
+          "replicate": 3,
+          "random_seed": 6044,
+          "timestamp": "2026-03-06T04:03:04.742746",
+          "baseline": 60.71428656578064,
+          "misaligned": 60.71428656578064,
+          "misaligned_delta": 0.0,
+          "aligned": 62.5,
+          "aligned_delta": 1.7857134342193604
+        },
+        {
+          "subject_id": 6,
+          "replicate": 4,
+          "random_seed": 6045,
+          "timestamp": "2026-03-06T04:07:06.693383",
+          "baseline": 60.71428656578064,
+          "misaligned": 57.14285969734192,
+          "misaligned_delta": -3.5714268684387207,
+          "aligned": 53.57142686843872,
+          "aligned_delta": -7.142859697341919
+        },
+        {
+          "subject_id": 6,
+          "replicate": 5,
+          "random_seed": 6046,
+          "timestamp": "2026-03-06T04:10:52.214538",
+          "baseline": 64.28571343421936,
+          "misaligned": 67.85714030265808,
+          "misaligned_delta": 3.5714268684387207,
+          "aligned": 62.5,
+          "aligned_delta": -1.7857134342193604
+        }
+      ]
+    },
+    {
+      "subject_id": 7,
+      "n_replicates": 5,
+      "baseline_mean": 58.52941155433655,
+      "baseline_std": 3.510981892205053,
+      "misaligned_mean": 60.000001192092896,
+      "misaligned_std": 3.013808723754256,
+      "aligned_mean": 60.88235378265381,
+      "aligned_std": 2.8667040481929607,
+      "misaligned_delta_mean": 1.4705896377563477,
+      "misaligned_delta_std": 3.4488345942572796,
+      "aligned_delta_mean": 2.3529422283172607,
+      "aligned_delta_std": 3.691146302832746,
+      "all_results": [
+        {
+          "subject_id": 7,
+          "replicate": 1,
+          "random_seed": 7042,
+          "timestamp": "2026-03-06T04:14:11.910386",
+          "baseline": 54.411762952804565,
+          "misaligned": 57.35294222831726,
+          "misaligned_delta": 2.9411792755126953,
+          "aligned": 61.764705181121826,
+          "aligned_delta": 7.352942228317261
+        },
+        {
+          "subject_id": 7,
+          "replicate": 2,
+          "random_seed": 7043,
+          "timestamp": "2026-03-06T04:18:04.243611",
+          "baseline": 58.82353186607361,
+          "misaligned": 63.235294818878174,
+          "misaligned_delta": 4.411762952804565,
+          "aligned": 61.764705181121826,
+          "aligned_delta": 2.9411733150482178
+        },
+        {
+          "subject_id": 7,
+          "replicate": 3,
+          "random_seed": 7044,
+          "timestamp": "2026-03-06T04:21:52.132089",
+          "baseline": 63.235294818878174,
+          "misaligned": 58.82353186607361,
+          "misaligned_delta": -4.411762952804565,
+          "aligned": 64.70588445663452,
+          "aligned_delta": 1.4705896377563477
+        },
+        {
+          "subject_id": 7,
+          "replicate": 4,
+          "random_seed": 7045,
+          "timestamp": "2026-03-06T04:25:40.538038",
+          "baseline": 60.29411554336548,
+          "misaligned": 63.235294818878174,
+          "misaligned_delta": 2.9411792755126953,
+          "aligned": 57.35294222831726,
+          "aligned_delta": -2.9411733150482178
+        },
+        {
+          "subject_id": 7,
+          "replicate": 5,
+          "random_seed": 7046,
+          "timestamp": "2026-03-06T04:29:17.064744",
+          "baseline": 55.88235259056091,
+          "misaligned": 57.35294222831726,
+          "misaligned_delta": 1.4705896377563477,
+          "aligned": 58.82353186607361,
+          "aligned_delta": 2.9411792755126953
+        }
+      ]
+    },
+    {
+      "subject_id": 8,
+      "n_replicates": 5,
+      "baseline_mean": 57.1875,
+      "baseline_std": 5.134898976610932,
+      "misaligned_mean": 58.125,
+      "misaligned_std": 4.044430970482745,
+      "aligned_mean": 60.625,
+      "aligned_std": 5.2291251658379725,
+      "misaligned_delta_mean": 0.9375,
+      "misaligned_delta_std": 2.0963137289060527,
+      "aligned_delta_mean": 3.4375,
+      "aligned_delta_std": 4.866378594499199,
+      "all_results": [
+        {
+          "subject_id": 8,
+          "replicate": 1,
+          "random_seed": 8042,
+          "timestamp": "2026-03-06T04:33:03.130259",
+          "baseline": 62.5,
+          "misaligned": 60.9375,
+          "misaligned_delta": -1.5625,
+          "aligned": 68.75,
+          "aligned_delta": 6.25
+        },
+        {
+          "subject_id": 8,
+          "replicate": 2,
+          "random_seed": 8043,
+          "timestamp": "2026-03-06T04:36:47.390798",
+          "baseline": 56.25,
+          "misaligned": 59.375,
+          "misaligned_delta": 3.125,
+          "aligned": 54.6875,
+          "aligned_delta": -1.5625
+        },
+        {
+          "subject_id": 8,
+          "replicate": 3,
+          "random_seed": 8044,
+          "timestamp": "2026-03-06T04:40:30.461375",
+          "baseline": 53.125,
+          "misaligned": 53.125,
+          "misaligned_delta": 0.0,
+          "aligned": 57.8125,
+          "aligned_delta": 4.6875
+        },
+        {
+          "subject_id": 8,
+          "replicate": 4,
+          "random_seed": 8045,
+          "timestamp": "2026-03-06T04:44:14.594248",
+          "baseline": 51.5625,
+          "misaligned": 54.6875,
+          "misaligned_delta": 3.125,
+          "aligned": 60.9375,
+          "aligned_delta": 9.375
+        },
+        {
+          "subject_id": 8,
+          "replicate": 5,
+          "random_seed": 8046,
+          "timestamp": "2026-03-06T04:47:57.598846",
+          "baseline": 62.5,
+          "misaligned": 62.5,
+          "misaligned_delta": 0.0,
+          "aligned": 60.9375,
+          "aligned_delta": -1.5625
+        }
+      ]
+    },
+    {
+      "subject_id": 9,
+      "n_replicates": 5,
+      "baseline_mean": 61.47058844566345,
+      "baseline_std": 2.4164237199580025,
+      "misaligned_mean": 65.29411792755127,
+      "misaligned_std": 2.460764281045373,
+      "aligned_mean": 61.76470637321472,
+      "aligned_std": 3.7492802918171857,
+      "misaligned_delta_mean": 3.8235294818878174,
+      "misaligned_delta_std": 1.3153333596139636,
+      "aligned_delta_mean": 0.29411792755126953,
+      "aligned_delta_std": 4.921531589840804,
+      "all_results": [
+        {
+          "subject_id": 9,
+          "replicate": 1,
+          "random_seed": 9042,
+          "timestamp": "2026-03-06T04:51:41.313132",
+          "baseline": 60.29411554336548,
+          "misaligned": 63.235294818878174,
+          "misaligned_delta": 2.9411792755126953,
+          "aligned": 64.70588445663452,
+          "aligned_delta": 4.411768913269043
+        },
+        {
+          "subject_id": 9,
+          "replicate": 2,
+          "random_seed": 9043,
+          "timestamp": "2026-03-06T04:55:29.700771",
+          "baseline": 64.70588445663452,
+          "misaligned": 69.11764740943909,
+          "misaligned_delta": 4.411762952804565,
+          "aligned": 63.235294818878174,
+          "aligned_delta": -1.4705896377563477
+        },
+        {
+          "subject_id": 9,
+          "replicate": 3,
+          "random_seed": 9044,
+          "timestamp": "2026-03-06T04:59:15.947591",
+          "baseline": 58.82353186607361,
+          "misaligned": 64.70588445663452,
+          "misaligned_delta": 5.882352590560913,
+          "aligned": 60.29411554336548,
+          "aligned_delta": 1.4705836772918701
+        },
+        {
+          "subject_id": 9,
+          "replicate": 4,
+          "random_seed": 9045,
+          "timestamp": "2026-03-06T05:03:02.918564",
+          "baseline": 63.235294818878174,
+          "misaligned": 66.17646813392639,
+          "misaligned_delta": 2.9411733150482178,
+          "aligned": 55.88235259056091,
+          "aligned_delta": -7.352942228317261
+        },
+        {
+          "subject_id": 9,
+          "replicate": 5,
+          "random_seed": 9046,
+          "timestamp": "2026-03-06T05:06:46.756114",
+          "baseline": 60.29411554336548,
+          "misaligned": 63.235294818878174,
+          "misaligned_delta": 2.9411792755126953,
+          "aligned": 64.70588445663452,
+          "aligned_delta": 4.411768913269043
+        }
+      ]
+    }
+  ]
+}
